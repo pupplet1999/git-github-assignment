@@ -1,2 +1,4 @@
 Git is used or version control! It can be used to make branches and allow people to work on different versions of a project
 GitHub is place where we can keep our git repository and share it with the world!
+
+Branching is where we can make changes while we work on something without messing with main! It is used to keep everything nice and organized :)
