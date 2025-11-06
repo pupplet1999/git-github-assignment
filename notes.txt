@@ -2,3 +2,5 @@ Git is used or version control! It can be used to make branches and allow people
 GitHub is place where we can keep our git repository and share it with the world!
 
 Branching is where we can make changes while we work on something without messing with main! It is used to keep everything nice and organized :)
+
+Pull Requests are requests to merge changes between branches
